@@ -1,0 +1,56 @@
+var a = 10 ; b ='10'
+a+b =>1010
+a-b =>0
+a*b =>100
+a+a+b =>2010
+b+a+a =>101010
+
+==================================
+
+var a = "may\"ur => may"ur
+var a = "It\'s" => It's
+
+===============================
+
+How to check array ? 
+
+Array.isArray(name) => returns true or false 
+
+=======================
+
+undefined (*+-) number = NaN
+NaN (*+-) number = 0
+
+=====================
+
+array.push('mayur') ==> adds mayur in the last of array
+array.unshift('mayur') ==> adds mayur in the start of array
+array.pop() ==> removes from start of array
+array.shift() ==> removes from the end of array
+
+========================
+
+Task : 
+1. pass string as input 
+
+Task : 
+===================
+
+Rest and Spread 
+
+====================
+
+Object Literals 
+
+==================
+
+foreach doesnot return anything
+map returns the value 
+
+===================
+
+
+
+
+
+
